@@ -68,8 +68,9 @@ const Timeline = () => {
    <SectionText>
     The purpose of JavaScript Mastery is to help aspiring and established
     developers to take their development skills to the next level and build
-    awesome apps. It's rough in self tought development world but easy with a
-    piece of mind and love of code.
+    awesome apps. It's rough in self taught development world but easy with
+    peace of mind and love of code. I also like physical activities and some of
+    my hobbies includes playing chess, swimming, skating.
    </SectionText>
    <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
     <>

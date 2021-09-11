@@ -24,8 +24,8 @@ const Footer = () => {
     </LinkColumn>
     <LinkColumn>
      <LinkTitle>Email</LinkTitle>
-     <LinkItem href='mailto:contact@offeet.co.ke'>
-      contact@offeet.co.ke
+     <LinkItem href='mailto:nickysalochin@gmail.com'>
+      nickysalochin@gmail.com
      </LinkItem>
     </LinkColumn>
    </LinkList>
@@ -34,7 +34,7 @@ const Footer = () => {
      <Slogan>Speed and Quality pay than work.</Slogan>
     </CompanyContainer>
     <SocialContainer>
-     <SocialIcons href='https://google.com'>
+     <SocialIcons href='https://github.com/Salochin5'>
       <AiFillGithub size='3rem' />
      </SocialIcons>
      <SocialIcons href='https://linkedin.com/in/salochin'>
